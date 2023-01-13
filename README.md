@@ -4,10 +4,12 @@ LWMaxTools is a set of pure MAXScript tool with no reliability under MIT license
 ## BBoxGen
 BBoxGen is used to generate Bounding Box for Editable_Poly with any transform information in target mesh in a short time.
 With powerful renaming ability and reparenting ability for any project rule.
+![BBoxGen](./doc/bboxgen.gif)
 
 ## EPSplit
 EPSplit is used to split Editable_Poly's elements in a short time.
 With powerful renaming ability and reparenting ability for any project rule.
+![EPSplit](./doc/epsplit.gif)
 
 ---
 
