@@ -120,7 +120,7 @@ rollout LWRLT_EPSplit_Parent "Parent" (
 
 	on LWRLT_EPSplit_Parent open do (
 		ckbAutoParent.checked = false
-		etAutoParentProc.text = "target.parent"
+		etAutoParentProc.text = "target"
 		refresh()
 	)
 
